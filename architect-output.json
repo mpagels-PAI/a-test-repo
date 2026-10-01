@@ -1,0 +1,7 @@
+{
+  "userPrompt": "Add a line saying QA marker <today's date> to the end of README.md",
+  "templateName": "default",
+  "templateReason": "Request is a trivial one-off file edit with zero app, data, or platform needs so default template applies as the non-specialized fallback.",
+  "projectType": "other",
+  "architectureNotes": "No tables, endpoints or components required; simply append the literal line 'QA marker <today's date>' to the end of README.md (or workspace/README.md)."
+}
