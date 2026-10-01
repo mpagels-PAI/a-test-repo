@@ -1,2 +1,2 @@
 # a-test-repo
-QA marker 2026-10-01
+QA verified 2026-10-01
